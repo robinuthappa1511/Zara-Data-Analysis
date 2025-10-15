@@ -19,7 +19,7 @@ The goal of this project is to explore Zara's sales data to identify:
 
 Here’s a quick look at the analysis dashboards and visual insights generated from the sales data:
 
-![Zara Sales Dashboard - Part 1](Zara -p1.png)
+![Zara Sales Dashboard - Part 1](Zara-p1.png)
 
 ![Zara Sales Dashboard - Part 2](Zara-p2.png)
 
